@@ -1,0 +1,42 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-roboto-flex: "Roboto Flex";
+  --font-sf-pro-text: "SF Pro Text";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 24px;
+  --font-size-xl: 26px;
+  --font-size-2xl: 36px;
+
+  /* Colors */
+  --neutral-4: #fff;
+  --secondary: #ff8a00;
+  --gray-600: #52525b;
+  --primary-new1: #2f8ab2;
+  --color-steelblue-200: #0c87c9;
+  --color-aliceblue: #ecf9ff;
+  --color-floralwhite-100: #fff9f2;
+  --gray-900: #101828;
+  --color-darkslategray: #3e3e3e;
+  --dark-grey: #777586;
+
+  /* Gaps */
+  --gap-xs: 16px;
+  --gap-sm: 24px;
+  --gap-md: 32px;
+  --gap-lg: 32.2px;
+
+  /* border radiuses */
+  --br-xs: 8.33px;
+  --br-sm: 16px;
+  --br-md: 17.87px;
+  --br-lg: 17.89px;
+
+  /* Effects */
+  --drop-shadow: 0px 1px 8px rgba(0, 0, 0, 0.08);
+}
